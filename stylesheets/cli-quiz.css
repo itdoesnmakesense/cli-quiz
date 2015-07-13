@@ -1,0 +1,20 @@
+#page-container{
+	font-family: Arial;
+}
+
+.sonnet-sections{
+	font-family: Tahoma;
+}
+#fave{
+	background-color: yellow;
+}
+#body-container {
+	max-width: 65%;
+	border: 2px dotted black;
+}
+#sidebar {
+	max-width: 30%;
+	border: 2px dotted black;
+	float: right;
+	clear: left;
+}
